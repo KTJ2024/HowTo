@@ -1,0 +1,46 @@
+*{
+    background-color: 	#f6f7f1;
+
+}
+
+h1 {
+  font-size: 2rem;
+  color: 	#34a0a4;
+  font-weight: 600;
+  text-align: center;
+}
+
+h2{
+  font-size: 1.5rem;
+  color: 	#34a0a4;
+  font-weight: 600;
+  text-align: center;
+}
+
+h3{
+  font-size: 1.5rem;
+  color: 	#34a0a4;
+  font-weight: 600;
+  text-align: center;
+}
+
+h4{
+  font-size: 1.5rem;
+  color: 	#34a0a4;
+  font-weight: 600;
+  text-align: center;
+}
+
+button{
+  background-color: #34a0a4;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+}
+
+ul{
+  color: #043892;
+  font-weight: 400;
+  font-size: 1.15rem;
+  text-align: left;
+}
